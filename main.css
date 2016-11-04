@@ -1,0 +1,62 @@
+.mainContainer {
+	border: 1px solid #ddd;
+	border-radius: 2px;
+	padding: 20px;
+	margin: 20px;
+}
+
+.requestConatiner {
+	margin-top: 20px;
+	padding: 20px;
+	border-top: 1px solid #ddd;
+}
+
+
+.requestConatiner input {
+	margin-top: 20px;
+}
+
+.requestConatiner button {
+	margin-top: 20px;
+	float: right;
+}
+
+#get {
+	cursor: progress;
+	float: right;
+}
+
+#avblDrinks {
+	margin-top: 20px;
+}
+
+#right {
+	/*border: 1px solid #337ab7;*/
+	padding: 20px;
+	float: right;
+}
+
+#left {
+	/*border: 1px solid #337ab7;*/
+	padding: 20px;
+	float: left;
+}
+
+#right table {
+	border: 1px solid #ddd;
+}
+
+#right table tr {
+	cursor: pointer;
+}
+
+#order {
+	background-color: #ddd;
+	/*border: 1px solid #ddd;*/
+	border-radius: 2px;
+	margin-top: 20px;
+	display: inline;
+	font-size: 16px;
+	cursor: pointer;
+	padding: 5px;
+}
